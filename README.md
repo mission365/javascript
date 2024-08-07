@@ -1,2 +1,2 @@
 # javascript
-A code repo for javascript from top to bottom.
+A code repo for javascript from bottom to top.
